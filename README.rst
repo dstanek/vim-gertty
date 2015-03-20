@@ -1,3 +1,8 @@
+Today's Gertty Functionality
+============================
+
+This just highlights the things that I want to replicate in Vim and not all
+of the functionality.
 
 Gertty Project List
 -------------------
@@ -14,6 +19,12 @@ Gertty Diff
 
 .. image:: docs/Screenshot-2015-03-20-12.21.31.png
 
+Added A CLI
+===========
+
+To add the functions necessary for Vim use I added a simple CLI. Hey, and
+it looks like the OpenStack client output!
+
 New CLI Project List
 --------------------
 
@@ -24,22 +35,35 @@ New CLI Review List
 
 .. image:: docs/Screenshot-2015-03-20-12.22.23.png
 
-VIM Project List
+Read-Only Vim Functionality
+===========================
+
+This is what I have gotten done so far. To be clean up and published
+here soon.
+
+Vim Project List
 ----------------
 
 .. image:: docs/Screenshot-2015-03-20-12.23.00.png
 
-VIM Review List
+Vim Review List
 ---------------
 
 .. image:: docs/Screenshot-2015-03-20-12.23.16.png
 
-VIM View Commit Message
+Vim View Commit Message
 -----------------------
 
 .. image:: docs/Screenshot-2015-03-20-12.23.34.png
 
-VIM Diff
+Vim Diff
 --------
 
 .. image:: docs/Screenshot-2015-03-20-12.23.46.png
+
+Future Functionality
+====================
+
+#. Show comments in the diff
+#. Allow new comments to be added
+#. Publish a review + vote

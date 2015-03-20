@@ -1,3 +1,23 @@
+Project Goal
+============
+
+#. Have a code review tool for Gerrit in Vim
+   - I like moving around diffs in Vim
+#. Be able to review offline
+
+Why?
+
+#. I don't like the Gerrit web interface
+#. I tend to have extra time to review at times when
+   I don't have internet access.
+
+Gertty exists. Why not use it?
+
+#. The interface is sluggish. Probably related to urwnd.
+#. Moving between screens and lines in the diff isn't
+   awesome.
+#. I AM. I'm just using it as a library instead of an application.
+
 Today's Gertty Functionality
 ============================
 
